@@ -3,3 +3,4 @@ ls=s.split()
 print(ls[:3])
 ls[0]=ls[4]=0
 print(ls)
+print(ls[::-1])
